@@ -1,0 +1,32 @@
+*{
+
+background-color:c skyblue;
+color: rgb(74, 35, 47);
+text-align: center;
+
+}
+
+.list
+{
+   text-align: center;
+  display: inline-block;
+  list-style-position: inside;
+
+  
+}
+body{
+
+    background-image:url(https://images.pexels.com/photos/7258253/pexels-photo-7258253.jpeg?auto=compress&cs=tiny);
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+img {
+    border-radius: 25px;
+    border: 2px solid rgb(74, 35, 47);
+
+    text-align: center;
+    width: 500px;
+    height: 500px;
+}
