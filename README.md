@@ -1,4 +1,4 @@
-# odin-recipes
+# Recipes
 Introduction
 
 This project is on building a basic recipe website using HTML
